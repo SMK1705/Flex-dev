@@ -1,0 +1,8 @@
+pymysql
+pandas
+sqlalchemy
+logging
+boto3
+python-io
+os-sys
+dotenv
