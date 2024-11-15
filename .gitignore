@@ -1,0 +1,7 @@
+__pycache__
+Flexonenv
+.env
+check.py
+dump.ipynb
+process_log.log
+transformation_log.log
